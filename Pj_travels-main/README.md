@@ -28,25 +28,25 @@
 ### Skeleton Loading Screen & Initial Clarification
 | | |
 |:---:|:---:|
-| <img src="screenshots/skeleton%20loadig%20screen%20for%20ui%20ux.png" width="600" alt="Skeleton loading screen"> | <img src="screenshots/clarifying%20info%20about%20trip%20before%20planning.png" width="600" alt="Clarifying info before planning"> |
+| <img src="screenshots/skeleton%20loadig%20ui%20ux__.png" width="600" alt="Skeleton loading screen"> | <img src="screenshots/clarifying%20info%20about%20trip%20before%20planning.png" width="600" alt="Clarifying info before planning"> |
 | **Skeleton Loading** — Shimmer placeholders keep the UI responsive while agents work in the background. Tabs populate incrementally as each agent completes. | **Smart Clarification** — Missing critical details (destination, duration, budget, travelers) are caught upfront with targeted questions before the pipeline runs. |
 
 ### Trip Overview & Itinerary
 | | |
 |:---:|:---:|
-| <img src="screenshots/overview.png" width="600" alt="Trip overview"> | <img src="screenshots/iternery-daywise%20plan.png" width="600" alt="Day-wise itinerary"> |
+| <img src="screenshots/overview__.png" width="600" alt="Trip overview"> | <img src="screenshots/itenary.png" width="600" alt="Day-wise itinerary"> |
 | **Trip Overview** — Executive summary, destination overview, key stats (travelers, days, budget, travel style) at a glance with tabbed navigation. | **Day-Wise Itinerary** — Detailed morning/afternoon/evening breakdown with real place names, meal suggestions, local costs, and practical notes per day. |
 
 ### Q&A & Budget Replan
 | | |
 |:---:|:---:|
-| <img src="screenshots/qna-with%20plan.png" width="600" alt="Q&A with plan"> | <img src="screenshots/replan-%20if%20budget%20exceeds%20trip%20cost.png" width="600" alt="Replan if budget exceeds"> |
+| <img src="screenshots/qna-with%20plan.png" width="600" alt="Q&A with plan"> | <img src="screenshots/budget.png" width="600" alt="Replan if budget exceeds"> |
 | **Chat Q&A** — Ask follow-up questions about your plan without rebuilding it. The LLM answers from the existing plan context — summaries, details, recommendations. | **Over-Budget Replan** — When estimated cost exceeds your budget, an amber warning shows the overshoot amount with a one-click "Replan within budget" button. |
 
 ### Export & Share
 | |
 |:---:|
-| <img src="screenshots/downloading%20and%20shring%20plan%20%2C%20over%20whatsapp%20or%20email.png" width="800" alt="Download and share plan"> |
+| <img src="screenshots/downloading%20plans.png" width="800" alt="Download and share plan"> |
 | **Download & Share** — Export the full plan as HTML, Plain Text, or JSON. Share instantly via WhatsApp, Email, or copy a formatted summary to clipboard. |
 
 ---
